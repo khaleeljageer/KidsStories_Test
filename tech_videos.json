@@ -3,6 +3,7 @@
 "videos" : [
     {
         "title": "Java",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/java_logo.svg",
         "videos": [
             {
                 "v_title": "Java Tamil Video Part-1",
@@ -50,6 +51,7 @@
     },
     {
         "title": "Kotlin",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/python_logo.svg",
         "videos": [
             {
                 "v_title": "Kotlin Tamil Video Part-1",
@@ -79,6 +81,7 @@
     },
     {
         "title": "Python",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/python_logo.svg",
         "videos": [
             {
                 "v_title": "Python Tamil Video Part-1",
@@ -108,6 +111,7 @@
     },
     {
         "title": "Docker",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/javascript_logo.svg",
         "videos": [
             {
                 "v_title": "Docker Tamil Video Part-1",
@@ -137,6 +141,7 @@
     },
     {
         "title": "Ruby",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/java_logo.svg",
         "videos": [
             {
                 "v_title": "Ruby Tamil Video Part-1",
@@ -166,6 +171,7 @@
     },
     {
         "title": "Dart",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/javascript_logo.svg",
         "videos": [
             {
                 "v_title": "Dart Tamil Video Part-1",
