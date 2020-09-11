@@ -51,7 +51,7 @@
     },
     {
         "title": "Kotlin",
-        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/python_logo.svg",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/kotlin_logo.svg",
         "videos": [
             {
                 "v_title": "Kotlin Tamil Video Part-1",
@@ -141,7 +141,7 @@
     },
     {
         "title": "Ruby",
-        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/java_logo.svg",
+        "logo" : "https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/assets/ruby_logo.svg",
         "videos": [
             {
                 "v_title": "Ruby Tamil Video Part-1",
