@@ -1,19 +1,17 @@
-{
-    "books":[
-        {
-            "title":"என் நண்பர்கள்",
-            "description":"எனக்கு பல நண்பர்கள் உள்ளனர். அவர்கள் அனைவரையும் விரும்புகிறேன். ஆனால் அவருள் ஒருவர் மட்டும் மிகவும் சிறந்தவர் ஆவார்.",
-            "url":"https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/127346-why-we-have-to-go-to-tamil-school.pdf"
-        },
-        {
-            "title":"நிலாவும் தொப்பியும்",
-            "description":"வெயில்காலத்தில் தொப்பியணிய விருப்பமா? வேறு யாருக்கெல்லாம் தொப்பியணியப் பிடிக்கும் என்று இந்த அழகான புத்தகத்திலிருந்து தெரிந்துகொள்ளுங்கள்.",
-            "url":"https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/127346-why-we-have-to-go-to-tamil-school.pdf"
-        },
-        {
-            "title":"கப்பூவின் நடனம்",
-            "description":"‘1 அ’ வகுப்பிலுள்ள அனைவருக்கும் கப்பூவால் ஆட முடியாதெனத் தெரியும். மற்ற மாணவர்கள் இடது கையைத் தூக்கினால், அவள் வலது கையைத் தூக்குகிறாள்! கோமல் மிஸ்ஸால் கப்பூவை நடனமாட வைக்க முடியுமா? நடனத்தின் களிப்பையும், எதிர்ப்பதங்களையும் குறித்த ஒரு கதை.",
-            "url":"https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/127346-why-we-have-to-go-to-tamil-school.pdf"
-        }
-    ]
-}
+[
+    {
+        "title":"என் நண்பர்கள்",
+        "description":"எனக்கு பல நண்பர்கள் உள்ளனர். அவர்கள் அனைவரையும் விரும்புகிறேன். ஆனால் அவருள் ஒருவர் மட்டும் மிகவும் சிறந்தவர் ஆவார்.",
+        "url":"https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/127346-why-we-have-to-go-to-tamil-school.pdf"
+    },
+    {
+        "title":"நிலாவும் தொப்பியும்",
+        "description":"வெயில்காலத்தில் தொப்பியணிய விருப்பமா? வேறு யாருக்கெல்லாம் தொப்பியணியப் பிடிக்கும் என்று இந்த அழகான புத்தகத்திலிருந்து தெரிந்துகொள்ளுங்கள்.",
+        "url":"https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/127346-why-we-have-to-go-to-tamil-school.pdf"
+    },
+    {
+        "title":"கப்பூவின் நடனம்",
+        "description":"‘1 அ’ வகுப்பிலுள்ள அனைவருக்கும் கப்பூவால் ஆட முடியாதெனத் தெரியும். மற்ற மாணவர்கள் இடது கையைத் தூக்கினால், அவள் வலது கையைத் தூக்குகிறாள்! கோமல் மிஸ்ஸால் கப்பூவை நடனமாட வைக்க முடியுமா? நடனத்தின் களிப்பையும், எதிர்ப்பதங்களையும் குறித்த ஒரு கதை.",
+        "url":"https://raw.githubusercontent.com/khaleeljageer/KidsStories_Test/master/127346-why-we-have-to-go-to-tamil-school.pdf"
+    }
+]
