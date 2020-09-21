@@ -1,6 +1,18 @@
 [
-    "LEVEL 1",
-    "LEVEL 2",
-    "LEVEL 3",
-    "LEVEL 4"
+    {
+        "title":"LEVEL 1",
+        "id":1
+    },
+    {
+        "title":"LEVEL 2",
+        "id":2
+    },
+    {
+        "title":"LEVEL 3",
+        "id":3
+    },
+    {
+        "title":"LEVEL 4",
+        "id":4
+    },
 ]
